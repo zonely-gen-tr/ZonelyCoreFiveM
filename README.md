@@ -1,8 +1,7 @@
----
-"ZonelyCoreFiveM"
-"A step by step setup guide to install the ZonelyCoreFiveM plugin on your FiveM server and send commands from your website."
-"ZonelyCoreFiveM"
----
+
+ZonelyCoreFiveM
+A step by step setup guide to install the ZonelyCoreFiveM plugin on your FiveM server and send commands from your website.
+
 
 Before integrating your website with ZonelyCoreFiveM, ensure you use the latest official version. Download the newest ZonelyCoreFiveM release here:  
 https://zonely.gen.tr/plugins/zonelycorefivem-1-0-0.zip
