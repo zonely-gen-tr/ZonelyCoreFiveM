@@ -1,0 +1,19 @@
+{
+  "apiKey": "CHANGE_ME_SHARED_SECRET",
+  "allowedOrigins": [
+    "https://example.com"
+  ],
+  "ipWhitelist": [],
+  "timeSkewSec": 180,
+  "whitelist": [
+    "add_ace",
+    "add_principal",
+    "remove_principal",
+    "say",
+    "add_ace_resource",
+    "ensure",
+    "restart"
+  ],
+  "logCommands": true,
+  "maxPerMinute": 120
+}
