@@ -1,7 +1,7 @@
 ---
-title: "ZonelyCoreFiveM"
-description: "A step by step setup guide to install the ZonelyCoreFiveM plugin on your FiveM server and send commands from your website."
-sidebarTitle: "ZonelyCoreFiveM"
+"ZonelyCoreFiveM"
+"A step by step setup guide to install the ZonelyCoreFiveM plugin on your FiveM server and send commands from your website."
+"ZonelyCoreFiveM"
 ---
 
 Before integrating your website with ZonelyCoreFiveM, ensure you use the latest official version. Download the newest ZonelyCoreFiveM release here:  
